@@ -24,6 +24,7 @@ We build small tools that **catch what blows past and clip it down** — so it s
 | 🌱 | **Grove** | A local-first, block-based outliner that keeps your notes as readable Markdown. | In progress |
 | 🖍️ | **Margins** | Clip an article or link, highlight what matters, and write in the margins. | In progress |
 | 🧭 | **Ikigai** | A conversational agent that helps you understand yourself — and grows what it learns into a structured document, session by session. | In progress |
+| 💧 | **Well** | Gathers scattered sources into one connected store, so AI can draw exactly what it needs. | In progress |
 
 <br/>
 
