@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="VentiClip — scattered lines of wind gathered by a paper clip into parallel lines">
+  <rect width="1200" height="340" fill="#0D1117"/>
+  <text x="64" y="104" font-family="-apple-system, 'SF Pro Display', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="56" font-weight="700" letter-spacing="-1.5" fill="#EDEDE8">VentiClip</text>
+  <text x="66" y="142" font-family="-apple-system, 'SF Pro Text', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="20" fill="#9A9A94">Structure the chaos. Anchor your focus.</text>
+  <g fill="none" stroke-linecap="round" stroke-width="3">
+    <path stroke="#3A3F47" d="M0 300 C 110 250, 180 190, 300 230 S 520 300, 620 230 S 700 196, 740 196 H 1200"/>
+    <path stroke="#3A3F47" d="M0 190 C 90 240, 200 290, 320 250 S 480 170, 600 205 S 700 211, 740 211 H 1200"/>
+    <path stroke="#E3B341" stroke-width="6" d="M0 250 C 130 200, 230 320, 360 270 S 560 190, 640 228 S 710 226, 740 226 H 1200"/>
+    <path stroke="#3A3F47" d="M0 320 C 150 300, 200 200, 340 300 S 540 290, 630 250 S 710 241, 740 241 H 1200"/>
+    <path stroke="#3A3F47" d="M0 220 C 120 330, 260 230, 380 320 S 560 250, 650 264 S 715 256, 740 256 H 1200"/>
+  </g>
+  <path fill="none" stroke="#0D1117" stroke-width="13" stroke-linecap="round" stroke-linejoin="round" d="M770 176 V 262 a 10 10 0 0 1 -20 0 V 160 a 18 18 0 0 1 36 0 V 272 a 26 26 0 0 1 -52 0 V 196"/>
+  <path fill="none" stroke="#EDEDE8" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" d="M770 176 V 262 a 10 10 0 0 1 -20 0 V 160 a 18 18 0 0 1 36 0 V 272 a 26 26 0 0 1 -52 0 V 196"/>
+</svg>
