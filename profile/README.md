@@ -19,12 +19,14 @@ We build small tools that **catch what blows past and clip it down** — so it s
 
 ### What we're making
 
+> **Grove** is the digital twin of your first brain. **Well** is your second brain.
+
 | | Project | What it does | Status |
 |---|---|---|---|
-| 🌱 | **Grove** | A local-first, block-based outliner that keeps your notes as readable Markdown. | In progress |
+| 🌱 | **Grove** | Your first brain's digital twin — everything you think, plan, and do, kept as readable Markdown in a local-first outliner. | In progress |
+| 💧 | **Well** | Your second brain — gathers what's scattered across the outside world into one connected store, so AI can draw exactly what it needs. | In progress |
 | 🖍️ | **Margins** | Clip an article or link, highlight what matters, and write in the margins. | In progress |
 | 🧭 | **Ikigai** | A conversational agent that helps you understand yourself — and grows what it learns into a structured document, session by session. | In progress |
-| 💧 | **Well** | Gathers scattered sources into one connected store, so AI can draw exactly what it needs. | In progress |
 
 <br/>
 
