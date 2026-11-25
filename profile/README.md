@@ -28,6 +28,7 @@ We build small tools that **catch what blows past and clip it down** — so it s
 | 🖍️ | **Margins** | Clip an article or link, highlight what matters, and write in the margins. | In progress |
 | 📖 | **Folio** | Read, polish, and share Markdown — a light desktop viewer and editor for macOS, Windows, and Linux, with temporary share links. Opens what Grove and Well hand off. | In progress |
 | 🧭 | **Ikigai** | A conversational agent that helps you understand yourself — and grows what it learns into a structured document, session by session. | In progress |
+| 🎓 | **Trellis** | An AI tutor that finds where your understanding ends, teaches one reasoning step at a time, and keeps what you learned in a knowledge graph. | In progress |
 
 <br/>
 
